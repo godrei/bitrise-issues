@@ -13,6 +13,12 @@ issues:
   - title: '[WIP] RN post'
     url: https://api.github.com/repos/bitrise-io/blog/issues/64
     cardcreated: false
+  - title: url & text updates
+    url: https://api.github.com/repos/bitrise-io/blog/issues/179
+    cardcreated: false
+  - title: '[WIP] RN post'
+    url: https://api.github.com/repos/bitrise-io/blog/issues/64
+    cardcreated: false
   https://api.github.com/repos/bitrise-io/osx-box-bootstrap:
   - title: Playbook not compatible with java 9
     url: https://api.github.com/repos/bitrise-io/osx-box-bootstrap/issues/55
@@ -23,7 +29,13 @@ issues:
   - title: Update the Xamarin bits in xamarin/ dir
     url: https://api.github.com/repos/bitrise-io/osx-box-bootstrap/issues/16
     cardcreated: false
+  - title: Update the Xamarin bits in xamarin/ dir
+    url: https://api.github.com/repos/bitrise-io/osx-box-bootstrap/issues/16
+    cardcreated: false
   https://api.github.com/repos/bitrise-io/steps-email-with-mailgun:
+  - title: 'add as note: if you don''t get the email check spam&your mailgun log'
+    url: https://api.github.com/repos/bitrise-io/steps-email-with-mailgun/issues/5
+    cardcreated: false
   - title: 'add as note: if you don''t get the email check spam&your mailgun log'
     url: https://api.github.com/repos/bitrise-io/steps-email-with-mailgun/issues/5
     cardcreated: false
@@ -43,7 +55,16 @@ issues:
   - title: 'Feature request: add commit count as output variable from this step'
     url: https://api.github.com/repos/bitrise-io/steps-git-clone/issues/23
     cardcreated: false
+  - title: Smart git retry
+    url: https://api.github.com/repos/bitrise-io/steps-git-clone/issues/38
+    cardcreated: false
+  - title: 'Feature request: add commit count as output variable from this step'
+    url: https://api.github.com/repos/bitrise-io/steps-git-clone/issues/23
+    cardcreated: false
   https://api.github.com/repos/bitrise-io/steps-hipchat:
+  - title: Extend notify and notify_on_error options summary
+    url: https://api.github.com/repos/bitrise-io/steps-hipchat/issues/18
+    cardcreated: false
   - title: Extend notify and notify_on_error options summary
     url: https://api.github.com/repos/bitrise-io/steps-hipchat/issues/18
     cardcreated: false
@@ -57,7 +78,13 @@ issues:
   - title: Inject CHANGELOG in the note
     url: https://api.github.com/repos/bitrise-io/steps-hockeyapp-deploy/issues/23
     cardcreated: false
+  - title: Inject CHANGELOG in the note
+    url: https://api.github.com/repos/bitrise-io/steps-hockeyapp-deploy/issues/23
+    cardcreated: false
   https://api.github.com/repos/bitrise-io/steps-resource-archive:
+  - title: Option to copy the unarchived directory's contents?
+    url: https://api.github.com/repos/bitrise-io/steps-resource-archive/issues/5
+    cardcreated: false
   - title: Option to copy the unarchived directory's contents?
     url: https://api.github.com/repos/bitrise-io/steps-resource-archive/issues/5
     cardcreated: false
@@ -71,7 +98,13 @@ issues:
   - title: Description is incorrect when the build is in pending or error state
     url: https://api.github.com/repos/bitrise-steplib/steps-github-status/issues/8
     cardcreated: false
+  - title: Description is incorrect when the build is in pending or error state
+    url: https://api.github.com/repos/bitrise-steplib/steps-github-status/issues/8
+    cardcreated: false
   https://api.github.com/repos/bitrise-steplib/steps-google-play-deploy:
+  - title: How to define mappings.txt path in bitrise config?
+    url: https://api.github.com/repos/bitrise-steplib/steps-google-play-deploy/issues/21
+    cardcreated: false
   - title: How to define mappings.txt path in bitrise config?
     url: https://api.github.com/repos/bitrise-steplib/steps-google-play-deploy/issues/21
     cardcreated: false
@@ -85,7 +118,13 @@ issues:
   - title: Added built-in cache
     url: https://api.github.com/repos/bitrise-steplib/steps-nuget-restore/issues/20
     cardcreated: false
+  - title: Added built-in cache
+    url: https://api.github.com/repos/bitrise-steplib/steps-nuget-restore/issues/20
+    cardcreated: false
   https://api.github.com/repos/bitrise-steplib/steps-react-native-bundle:
+  - title: babel issue react-native 0.39
+    url: https://api.github.com/repos/bitrise-steplib/steps-react-native-bundle/issues/11
+    cardcreated: false
   - title: babel issue react-native 0.39
     url: https://api.github.com/repos/bitrise-steplib/steps-react-native-bundle/issues/11
     cardcreated: false
@@ -105,7 +144,16 @@ issues:
   - title: Starting an emulator with GPU emulation
     url: https://api.github.com/repos/bitrise-steplib/steps-start-android-emulator/issues/22
     cardcreated: false
+  - title: Emulator SDK package installation
+    url: https://api.github.com/repos/bitrise-steplib/steps-start-android-emulator/issues/40
+    cardcreated: false
+  - title: Starting an emulator with GPU emulation
+    url: https://api.github.com/repos/bitrise-steplib/steps-start-android-emulator/issues/22
+    cardcreated: false
   https://api.github.com/repos/bitrise-tools/bitrise-bridge:
+  - title: allow additional ENVs to be passed, which will be set before running `bitrise`
+    url: https://api.github.com/repos/bitrise-tools/bitrise-bridge/issues/6
+    cardcreated: false
   - title: allow additional ENVs to be passed, which will be set before running `bitrise`
     url: https://api.github.com/repos/bitrise-tools/bitrise-bridge/issues/6
     cardcreated: false
@@ -119,7 +167,13 @@ issues:
   - title: 'Have options for two multi line text modes: consecutive and non-consecutive'
     url: https://api.github.com/repos/bitrise-tools/bitrise-log-analyzer/issues/5
     cardcreated: false
+  - title: 'Have options for two multi line text modes: consecutive and non-consecutive'
+    url: https://api.github.com/repos/bitrise-tools/bitrise-log-analyzer/issues/5
+    cardcreated: false
   https://api.github.com/repos/bitrise-tools/bitrise-machine:
+  - title: 'Use vagrant ssh-config output for ssh connection '
+    url: https://api.github.com/repos/bitrise-tools/bitrise-machine/issues/2
+    cardcreated: false
   - title: 'Use vagrant ssh-config output for ssh connection '
     url: https://api.github.com/repos/bitrise-tools/bitrise-machine/issues/2
     cardcreated: false
@@ -139,7 +193,16 @@ issues:
   - title: Better / clearer message about what the exported signing files are for
     url: https://api.github.com/repos/bitrise-tools/codesigndoc/issues/40
     cardcreated: false
+  - title: 'revision: use `github.com/pkg/errors` for errors; unified `walkProvProfiles`'
+    url: https://api.github.com/repos/bitrise-tools/codesigndoc/issues/52
+    cardcreated: false
+  - title: Better / clearer message about what the exported signing files are for
+    url: https://api.github.com/repos/bitrise-tools/codesigndoc/issues/40
+    cardcreated: false
   https://api.github.com/repos/bitrise-tools/datapi-client:
+  - title: removed rubygems update
+    url: https://api.github.com/repos/bitrise-tools/datapi-client/issues/2
+    cardcreated: false
   - title: removed rubygems update
     url: https://api.github.com/repos/bitrise-tools/datapi-client/issues/2
     cardcreated: false
@@ -159,7 +222,16 @@ issues:
   - title: Rewrite / improvements
     url: https://api.github.com/repos/bitrise-tools/depman/issues/1
     cardcreated: false
+  - title: Depman review / compare / changes - sync BACK with the upstream repo
+    url: https://api.github.com/repos/bitrise-tools/depman/issues/2
+    cardcreated: false
+  - title: Rewrite / improvements
+    url: https://api.github.com/repos/bitrise-tools/depman/issues/1
+    cardcreated: false
   https://api.github.com/repos/bitrise-tools/garden:
+  - title: option far `reap` to `--continue` in case of an error
+    url: https://api.github.com/repos/bitrise-tools/garden/issues/1
+    cardcreated: false
   - title: option far `reap` to `--continue` in case of an error
     url: https://api.github.com/repos/bitrise-tools/garden/issues/1
     cardcreated: false
@@ -175,7 +247,17 @@ issues:
       systemImage'
     url: https://api.github.com/repos/bitrise-tools/go-android/issues/19
     cardcreated: false
+  - title: 'Integration test: TestCreateAndStartEmulator. Fails to find installed
+      systemImage'
+    url: https://api.github.com/repos/bitrise-tools/go-android/issues/19
+    cardcreated: false
   https://api.github.com/repos/bitrise-tools/go-xamarin:
+  - title: Unit test improvement - don't duplicate
+    url: https://api.github.com/repos/bitrise-tools/go-xamarin/issues/5
+    cardcreated: false
+  - title: Better description (comment) or better variable name for solution.New "loadProjects"
+    url: https://api.github.com/repos/bitrise-tools/go-xamarin/issues/4
+    cardcreated: false
   - title: Unit test improvement - don't duplicate
     url: https://api.github.com/repos/bitrise-tools/go-xamarin/issues/5
     cardcreated: false
@@ -201,7 +283,38 @@ issues:
   - title: gows fails if GOPATH contains multiple paths
     url: https://api.github.com/repos/bitrise-tools/gows/issues/1
     cardcreated: false
+  - title: Option for combined GOPATH
+    url: https://api.github.com/repos/bitrise-tools/gows/issues/3
+    cardcreated: false
+  - title: gows fails if GOPATH contains multiple paths
+    url: https://api.github.com/repos/bitrise-tools/gows/issues/1
+    cardcreated: false
   https://api.github.com/repos/bitrise-tools/releaseman:
+  - title: add a `show` command - releaseman show RELEASE.VERSION.NUMBER should print
+      that version's changelog
+    url: https://api.github.com/repos/bitrise-tools/releaseman/issues/13
+    cardcreated: false
+  - title: Group commits by prefix
+    url: https://api.github.com/repos/bitrise-tools/releaseman/issues/11
+    cardcreated: false
+  - title: Skip commit pattern
+    url: https://api.github.com/repos/bitrise-tools/releaseman/issues/10
+    cardcreated: false
+  - title: Support for continuous releases - grouping of releases?
+    url: https://api.github.com/repos/bitrise-tools/releaseman/issues/9
+    cardcreated: false
+  - title: Option to include the full commit message
+    url: https://api.github.com/repos/bitrise-tools/releaseman/issues/8
+    cardcreated: false
+  - title: Don't allow to release/create a new version, which was already released
+    url: https://api.github.com/repos/bitrise-tools/releaseman/issues/7
+    cardcreated: false
+  - title: Crash if there's no tag in the repo (releaseman --ci create-changelog --version=v0.9.0)
+    url: https://api.github.com/repos/bitrise-tools/releaseman/issues/6
+    cardcreated: false
+  - title: Create the very first CHANGELOG
+    url: https://api.github.com/repos/bitrise-tools/releaseman/issues/5
+    cardcreated: false
   - title: add a `show` command - releaseman show RELEASE.VERSION.NUMBER should print
       that version's changelog
     url: https://api.github.com/repos/bitrise-tools/releaseman/issues/13
